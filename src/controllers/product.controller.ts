@@ -1,5 +1,4 @@
 import { Request, Response } from 'express';
-import { StatusCodes } from 'http-status-codes';
 import ProductService from '../services/product.service';
 
 class ProductController {
@@ -8,7 +7,7 @@ class ProductController {
   public getAll = async (req: Request, res: Response) => {
     const products = await this.productService.getAll();
 
-    res.status(StatusCodes.OK).json(products);
+    res.status(200).json(products);
   };
 }
 
