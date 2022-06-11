@@ -6,10 +6,10 @@ class ProductController {
   constructor(private productService = new ProductService()) { }
 
   public getAll = async (req: Request, res: Response) => {
-    const products = await  this.productService.getAll();
+    const products = await this.productService.getAll();
 
     res.status(StatusCodes.OK).json(products);
-  }
+  };
 }
 
 export default ProductController;
