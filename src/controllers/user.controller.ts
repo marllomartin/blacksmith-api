@@ -10,6 +10,18 @@ class UserController {
 
     res.status(201).json(result);
   };
+
+  public login = async (req: Request, res: Response) => {
+    const user = req.body;
+
+    try {
+      const result = await this.userService.login(user);
+
+      res.status(200).json(result);
+    } catch (Error) {
+      return res.status(401).send({ message: 'Username or password invalid' });
+    }
+  };
 }
 
 export default UserController;
