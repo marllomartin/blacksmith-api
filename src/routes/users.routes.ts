@@ -19,4 +19,7 @@ router.post(
   userController.create,
 );
 
+// Login
+router.post('/login', validateUsername, validatePassword, userController.login);
+
 export default router;
