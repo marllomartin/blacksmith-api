@@ -26,17 +26,27 @@ CREATE TABLE Trybesmith.Products (
 INSERT INTO
   Trybesmith.Users (username, classe, level, password)
 VALUES
-  ("reigal", "Guerreiro", 10, "1dragaonoceu");
+  ("Poppy", "Guardiã", 15, "martelada123");
 
 INSERT INTO
   Trybesmith.Users (username, classe, level, password)
 VALUES
-  ("vyrion", "Inventor", 8, "pagandodividas");
+  ("Elesis", "Cavaleira", 8, "00sieghart");
 
 INSERT INTO
   Trybesmith.Users (username, classe, level, password)
 VALUES
-  ("yraa", "Ladina", 5, "valarmorg");
+  ("Tyrande", "Sacerdotisa", 31, "wh1sperw1nd");
+
+INSERT INTO
+  Trybesmith.Users (username, classe, level, password)
+VALUES
+  ("Link", "Aventureiro", 56, "adlez321");
+
+INSERT INTO
+  Trybesmith.Users (username, classe, level, password)
+VALUES
+  ("Sabrina", "Bruxa", 24, "salem666");
 
 INSERT INTO
   Trybesmith.Orders (userId)
@@ -56,23 +66,44 @@ VALUES
 INSERT INTO
   Trybesmith.Products (name, amount)
 VALUES
-  ("Espada curta", "10 peças de ouro");
+  ("Espada Simples", "10 peças de ouro");
 
 INSERT INTO
   Trybesmith.Products (name, amount, orderId)
 VALUES
-  (
-    "Escudo desnecessariamente grande",
-    "20 peças de ouro",
-    1
-  );
+  ("Escudo Desnecessariamente Grande", "20 peças de ouro", 1);
 
 INSERT INTO
   Trybesmith.Products (name, amount, orderId)
 VALUES
-  ("Adaga de Aço Valírico", "1 peça de ouro", 2);
+  ("Adaga de Aço Valírico", "5 peças de ouro", 2);
+
+INSERT INTO
+  Trybesmith.Products (name, amount)
+VALUES
+  ("Chave Misteriosa", "1 peça de ouro");
 
 INSERT INTO
   Trybesmith.Products (name, amount, orderId)
 VALUES
-  ("Engenhoca aleatória", "15 peças de ouro", 3);
+  ("Elixir da Restauração", "23 peças de ouro", 3);
+
+INSERT INTO
+  Trybesmith.Products (name, amount)
+VALUES
+  ("Espada Enferrujada", "5 peças de ouro");
+
+INSERT INTO
+  Trybesmith.Products (name, amount)
+VALUES
+  ("Bota de Couro", "12 peças de ouro");
+
+INSERT INTO
+  Trybesmith.Products (name, amount, orderId)
+VALUES
+  ("Engenhoca Aleatória", "15 peças de ouro", 3);
+
+INSERT INTO
+  Trybesmith.Products (name, amount)
+VALUES
+  ("Cajado do Crepúsculo", "55 peças de ouro");
