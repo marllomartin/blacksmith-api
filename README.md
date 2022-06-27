@@ -22,19 +22,19 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
 <a href="https://www.w3schools.com/html/">
 <img 
-     src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=25"
+     src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20"
      alt="Typescript"
 />
 </a>
 <a href="https://www.w3schools.com/css/">
 <img
-     src="https://img.shields.io/badge/express-90C53F?style=for-the-badge&logo=express&logoColor=fff&logoWidth=25"
+     src="https://img.shields.io/badge/express-90C53F?style=for-the-badge&logo=express&logoColor=fff&logoWidth=20"
      alt="Express"
 />   
 </a>
 <a href="https://javascript.com/">
 <img 
-    src="https://img.shields.io/badge/shell-64AB26?style=for-the-badge&logo=gnubash&logoColor=fff&logoWidth=25"
+    src="https://img.shields.io/badge/shell-64AB26?style=for-the-badge&logo=gnubash&logoColor=fff&logoWidth=20"
     alt="Shell"
 />
 </a>
