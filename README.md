@@ -49,6 +49,13 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 ### Atenção!
 Esse projeto utiliza variáveis de ambiente. Renomeie o arquivo `.env.example` para `.env` e altere os valores de acordo com suas próprias configurações.
 
+### Clonando o projeto
+```
+git clone git@github.com:marllomartin/blacksmith.git
+
+cd blacksmith
+```
+
 ### Instalando as dependências:
 ```
 npm install
