@@ -1,6 +1,10 @@
 
 # Project Blacksmith
 
+<div align="center">
+<img src=https://i.imgur.com/uEXCvBs.png width="200px">
+</div>
+
 ## Sobre
 Projeto de um CRUD (Create, Read, Update, Delete) de uma loja de itens medievais, no formato de uma API feito
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
