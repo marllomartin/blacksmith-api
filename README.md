@@ -1,5 +1,5 @@
 
-# Project Blacksmith
+# Project Blacksmith API
 
 <div align="center">
 <img src=https://i.imgur.com/3gfcAAM.png width="200px">
