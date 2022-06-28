@@ -24,19 +24,19 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
 ## Tecnologias Utilizadas
 
-<a href="https://www.w3schools.com/html/">
+<a href="https://www.typescriptlang.org/">
 <img 
      src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20"
      alt="Typescript"
 />
 </a>
-<a href="https://www.w3schools.com/css/">
+<a href="https://expressjs.com/pt-br/">
 <img
      src="https://img.shields.io/badge/express-90C53F?style=for-the-badge&logo=express&logoColor=fff&logoWidth=20"
      alt="Express"
 />   
 </a>
-<a href="https://javascript.com/">
+<a href="https://pt.wikipedia.org/wiki/Shell_script">
 <img 
     src="https://img.shields.io/badge/shell-64AB26?style=for-the-badge&logo=gnubash&logoColor=fff&logoWidth=20"
     alt="Shell"
