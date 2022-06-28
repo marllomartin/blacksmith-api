@@ -2,7 +2,7 @@
 # Project Blacksmith
 
 <div align="center">
-<img src=https://i.imgur.com/uEXCvBs.png width="200px">
+<img src=https://i.imgur.com/3gfcAAM.png width="200px">
 </div>
 
 ## Sobre
