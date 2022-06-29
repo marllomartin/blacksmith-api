@@ -42,12 +42,6 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
      alt="Express"
 />   
 </a>
-<a href="https://pt.wikipedia.org/wiki/Shell_script">
-<img 
-    src="https://img.shields.io/badge/shell-64AB26?style=for-the-badge&logo=gnubash&logoColor=fff&logoWidth=20"
-    alt="Shell"
-/>
-</a>
 </div>
 
 ## Rodando o projeto localmente
