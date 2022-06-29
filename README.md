@@ -30,6 +30,12 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
      alt="Typescript"
 />
 </a>
+<a href="https://nodejs.org/en/">
+<img
+     src="https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=77B65D&logoWidth=20"
+     alt="Node.js"
+/>   
+</a>
 <a href="https://expressjs.com/pt-br/">
 <img
      src="https://img.shields.io/badge/express-90C53F?style=for-the-badge&logo=express&logoColor=fff&logoWidth=20"
