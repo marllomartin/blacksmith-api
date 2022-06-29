@@ -17,7 +17,9 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
   * Configuração de variáveis de ambiente;
 
-  * Estruturação de uma API utilizando Typescript;
+  * Estruturação de uma API utilizando TypeScript;
+  
+  * Criação de interfaces no TypeScript
   
   * Estruturação de variáveis e funções fortemente tipadas;
 
@@ -179,7 +181,7 @@ body:
 ```json
 {
   "name": "Espada Lendária",
-  "amount": "3500 peças de ouro"
+  "amount": "3560 peças de ouro"
 }
 ```
 response:
