@@ -64,7 +64,7 @@ npm install
 ```
 ### Inicializando o projeto:
 ```
-npm run
+npm run dev
 ```
 ### Exemplos de uso
 
