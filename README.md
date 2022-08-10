@@ -6,7 +6,7 @@
 </div>
 
 ## Sobre
-Projeto de um CRUD (Create, Read, Update, Delete) de uma loja de itens medievais, no formato de uma API feito
+Projeto de um CRUD (Create, Read, Update, Delete) de uma loja de itens medievais, no formato de uma API REST feito
 enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
 ## Aprendizados
