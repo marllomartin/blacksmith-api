@@ -5,7 +5,7 @@
 <img src=https://i.imgur.com/3gfcAAM.png width="200px">
 </div>
 
-## Sobre
+## About
 CRUD (Create, Read, Update, Delete) of a thematic medieval store on API REST format developed while I studied at [Trybe](https://www.betrybe.com/).
 
 ## Leanings
