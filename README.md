@@ -6,25 +6,24 @@
 </div>
 
 ## Sobre
-Projeto de um CRUD (Create, Read, Update, Delete) de uma loja de itens medievais, no formato de uma API REST feito
-enquanto eu estudava na [Trybe](https://www.betrybe.com/).
+CRUD (Create, Read, Update, Delete) of a thematic medieval store on API REST format developed while I studied at [Trybe](https://www.betrybe.com/).
 
-## Aprendizados
+## Leanings
 
-  * Configuração de uma API utilizando Node e Express;
+  * API configuration with Node and Express;
   
-  * Organização de rotas utilizando Node e Express;
+  * Routes organization with Node and Express;
 
-  * Configuração de variáveis de ambiente;
+  * Setting environment variables;
 
-  * Estruturação de uma API utilizando TypeScript;
+  * API structuring with TypeScript;
   
-  * Criação de interfaces no TypeScript
+  * Setting TypeScript interfaces;
   
-  * Estruturação de variáveis e funções fortemente tipadas;
+  * Structuring strongly typed variables and functions;
 
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 <a href="https://www.typescriptlang.org/">
 <img 
@@ -46,39 +45,39 @@ enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 </a>
 </div>
 
-## Rodando o projeto localmente
+## Running project locally
 
-### Atenção!
-Esse projeto utiliza variáveis de ambiente. Renomeie o arquivo `.env.example` para `.env` e altere os valores de acordo com suas próprias configurações.
+### Attention!
+This project uses environment variables. Rename the `.env.example` file to `.env` and set its values accordingly to your own settings. 
 
-### Clonando o projeto:
+### Cloning project:
 ```
 git clone git@github.com:marllomartin/blacksmith.git
 
 cd blacksmith
 ```
 
-### Instalando as dependências:
+### Installing dependencies:
 ```
 npm install
 ```
-### Inicializando o projeto:
+### Running project:
 ```
 npm run dev
 ```
-### Exemplos de uso
+### Use examples
 
 <details>
-<summary><h4>Endpoint para o cadastro de novos usuários</h4></summary>
+<summary><h4>New user registering endpoint</h4></summary>
 <p><b>POST</b> | http://localhost:3000/users</p>
 
 body:
 ```json
 {
   "username": "marllomartin",
-  "classe": "Desenvolvedor",
+  "classe": "Developer",
   "level": 22,
-  "password": "123voceleuoreadme"
+  "password": "123youreadthereadme"
 }
 ```
 response:
@@ -90,14 +89,14 @@ response:
 </details>
 
 <details>
-<summary><h4>Endpoint para o login de usuários</h4></summary>
+<summary><h4>User login endpoint</h4></summary>
 <p><b>POST</b> | http://localhost:3000/login</p>
 
 body:
 ```json
 {
   "username": "marllomartin",
-  "password": "123voceleuoreadme"
+  "password": "123youreadthereadme"
 }
 ```
 response:
@@ -109,7 +108,7 @@ response:
 </details>
 
 <details>
-<summary><h4>Endpoint para a listagem dos produtos</h4></summary>
+<summary><h4>Product listing endpoint</h4></summary>
 <p><b>GET</b> | http://localhost:3000/products</p>
 
 response:
@@ -174,7 +173,7 @@ response:
 </details>
 
 <details>
-<summary><h4>Endpoint para o registro de um novo produto</h4></summary>
+<summary><h4>Product registering endpoint</h4></summary>
 <p><b>POST</b> | http://localhost:3000/products</p>
 
 body:
@@ -197,7 +196,7 @@ response:
 </details>
 
 <details>
-<summary><h4>Endpoint para a listagem de todos os pedidos</h4></summary>
+<summary><h4>Orders listing endpoint</h4></summary>
 <p><b>GET</b> | http://localhost:3000/orders</p>
 
 response:
